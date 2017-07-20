@@ -1,0 +1,9 @@
+***Start1***
+Subtitle asd 1
+Subtitle asd 2
+Subtitle asd 3
+Subtitle asd 4
+Subtitle asd 5
+Subtitle asd 6
+ common approach is to not use a JLabel and instead use a JTextArea with word-wrap and line-wrap turned on. You could then decorate the JTextArea to make it look like a JLabel (border, background color, etc.). [Edited to include line-wrap for completeness per DSquare's comment]
+***END***
