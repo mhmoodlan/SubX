@@ -427,7 +427,9 @@ public class ServerViewer extends javax.swing.JFrame {
     }//GEN-LAST:event_buttonPreviousActionPerformed
 
     private void jButton5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton5ActionPerformed
-        JOptionPane.showMessageDialog(null, "This software was originally created to help making TedxMimasStreet main event talks more accessible to the foreign audience. \nWebsite: future link\nGithub repo : future link", "Info", 1);
+        JOptionPane.showMessageDialog(null, "This software was originally created to help making TedxMimasStreet main event talks more accessible to the foreign audience."
+                + "\nWebsite: http://mhmoodlan.github.io/SubX"
+                + "\nGithub repo : https://github.com/mhmoodlan/SubX", "Info", 1);
     }//GEN-LAST:event_jButton5ActionPerformed
 
     private void buttonLoadActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_buttonLoadActionPerformed
