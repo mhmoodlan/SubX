@@ -1,5 +1,5 @@
 # SubX
-A subtitle system that can display subtitles over presentations and control each of them independently.
+A subtitle application that lets you display subtitles over presentations and control each of them independently.
 
 ## TOC
 1. [What is SubX ?](https://github.com/mhmoodlan/SubX#what-is-subx-)
