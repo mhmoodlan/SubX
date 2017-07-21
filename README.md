@@ -2,13 +2,13 @@
 A subtitle system that can display subtitles over presentations and control each of them independently.
 
 ## TOC
-1. [What is SubX ?](https://github.com/mhmoodlan/SubX/new/master?readme=1#what-is-subx-)
-2. [Getting Startrd](https://github.com/mhmoodlan/SubX/new/master?readme=1#getting-started)
-3. [How does it work ?](https://github.com/mhmoodlan/SubX/new/master?readme=1#how-does-it-work-)
-4. [Built With](https://github.com/mhmoodlan/SubX/new/master?readme=1#built-with)
-5. [Authors](https://github.com/mhmoodlan/SubX/new/master?readme=1#authors)
-6. [License](https://github.com/mhmoodlan/SubX/new/master?readme=1#license)
-7. [Acknowledgments](https://github.com/mhmoodlan/SubX/new/master?readme=1#acknowledgments)
+1. [What is SubX ?](https://github.com/mhmoodlan/SubX#what-is-subx-)
+2. [Getting Startrd](https://github.com/mhmoodlan/SubX#getting-started)
+3. [How does it work ?](https://github.com/mhmoodlan/SubX#how-does-it-work-)
+4. [Built With](https://github.com/mhmoodlan/SubX#built-with)
+5. [Authors](https://github.com/mhmoodlan/SubX#authors)
+6. [License](https://github.com/mhmoodlan/SubX#license)
+7. [Acknowledgments](https://github.com/mhmoodlan/SubX#acknowledgments)
 
 ## What is SubX ?
 A desktop application that can be used in events and conferences to provide subtitles/captions to the foreign audience without the need of another screen or projector also it separates the presentation control (done by the speaker) from the subtitles control (done by a staff member).
@@ -39,7 +39,7 @@ This is a [netbeans](https://netbeans.org/) project so if you're already using i
 If you're using a different java IDE you can easily copy classes from [scr](https://github.com/mhmoodlan/SubX/tree/master/src).
 
 ## How does it work ?
-1. First you need java see [Prerequisites](https://github.com/mhmoodlan/SubX/new/master?readme=1#prerequisites-developing--installing).
+1. First you need java see [Prerequisites](https://github.com/mhmoodlan/SubX#prerequisites-developing--installing).
 
 2. Next [download SubX](https://github.com/mhmoodlan/SubX/releases/latest)
 
@@ -80,7 +80,7 @@ If you're using a different java IDE you can easily copy classes from [scr](http
         ```
         The _port = 6666_ line defines the port the server is listening to which will be used by clients to connect to the server.
         
-        The _defaultFile = defaultSubtitle.txt_ defines the default loaded subtitles file (you can change this to what ever subtitles file you want but make sure to put it in the same folder and apply to the [subtitle file format](https://github.com/mhmoodlan/SubX/new/master?readme=1#subtitle-file-format)).
+        The _defaultFile = defaultSubtitle.txt_ defines the default loaded subtitles file (you can change this to what ever subtitles file you want but make sure to put it in the same folder and apply to the [subtitle file format](https://github.com/mhmoodlan/SubX#subtitle-file-format)).
      
      4. The client computer connects with the server by reading the _**host**_ and the _**port**_ values from the _**SubXClient.ini**_, example :
         
