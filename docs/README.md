@@ -118,7 +118,7 @@ See also the list of [contributors](https://github.com/mhmoodlan/SubX/graphs/con
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/mhmoodlan/SubX/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
