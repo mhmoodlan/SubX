@@ -1,6 +1,8 @@
 # SubX
 A subtitle application that lets you display subtitles over presentations and control each of them independently.
 
+[![Build Status](https://travis-ci.org/mhmoodlan/SubX.svg?branch=master)](https://travis-ci.org/mhmoodlan/SubX)
+
 ## TOC
 1. [What is SubX ?](https://github.com/mhmoodlan/SubX#what-is-subx-)
 2. [Getting Startrd](https://github.com/mhmoodlan/SubX#getting-started)
